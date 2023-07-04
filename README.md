@@ -11,7 +11,7 @@ git clone https://github.com/santiagocardoso/scripts.git
 ```
 ### Run
 ```
-// fypex (file extractor)
+// ftypex (file extractor)
 ubuntu@ubuntu:~$ chmod +x ftypex.sh
 ubuntu@ubuntu:~$ ./ftypex.sh file1.type file2.type ...
 ```
