@@ -7,11 +7,11 @@
 ---
 ## Install
 ```
-git clone https://github.com/santiagocardoso/scripts.git
+$ git clone https://github.com/santiagocardoso/scripts.git
 ```
 ### Run
 ```
 // ftypex (file extractor)
-ubuntu@ubuntu:~$ chmod +x ftypex.sh
-ubuntu@ubuntu:~$ ./ftypex.sh file1.type file2.type ...
+$ chmod +x ftypex.sh
+$ ./ftypex.sh file1.type file2.type ...
 ```
