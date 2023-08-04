@@ -19,5 +19,5 @@ $ ./ftypex.sh file1.type file2.type ...
 // mouse keyboard move (turn on mouse and keyboard simultaneously movement)
 // needs to be adapted to your own settings
 $ chmod +x mouse_keyboard_move.sh
-$ ./mouse_keyboard_move.sh ...
+$ ./mouse_keyboard_move.sh
 ```
